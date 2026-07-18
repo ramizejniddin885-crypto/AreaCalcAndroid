@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Тёмная «космическая» палитра с неоновым акцентом -->
+    <color name="bg">#0B0B12</color>
+    <color name="surface">#16161F</color>
+    <color name="surface_variant">#20202C</color>
+    <color name="outline">#2E2E3C</color>
+
+    <color name="primary">#7A5CFF</color>       <!-- фиолетовый -->
+    <color name="primary_dim">#5A3FE0</color>
+    <color name="accent">#22E0C8</color>         <!-- бирюзовый неон -->
+    <color name="on_primary">#FFFFFF</color>
+
+    <color name="text">#ECECF3</color>
+    <color name="text_muted">#8A8A9C</color>
+
+    <color name="white">#FFFFFF</color>
+</resources>

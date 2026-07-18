@@ -1,0 +1,3 @@
+# OpenCV
+-keep class org.opencv.** { *; }
+-dontwarn org.opencv.**
