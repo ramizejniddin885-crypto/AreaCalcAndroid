@@ -12,11 +12,12 @@
         android:padding="16dp">
 
         <!-- Заголовок -->
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="AREA · подсчёт площади"
             android:letterSpacing="0.08"
+            android:text="AF_2.0 · подсчёт площади"
             android:textColor="@color/accent"
             android:textSize="13sp"
             android:textStyle="bold" />
