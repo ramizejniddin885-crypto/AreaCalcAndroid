@@ -67,7 +67,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
     private var cameraUri: Uri? = null
     private var selectedPaperIndex = 0
 
-    // Акселерометр — индикатор наклона (помогает снять ровно = точнее площадь)
+    // Акселерометр —ввв индикатор наклона (помогает снять ровно = точнее площадь)
     private var sensorManager: SensorManager? = null
     private var accelSensor: Sensor? = null
     private val gravity = FloatArray(3)
